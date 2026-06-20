@@ -6,7 +6,9 @@
 
 **Live Demo:** [Hospital Managment App](https://apple-mango-p2-dev-con.vercel.app)
 
-**Note:** Project may database may be paused due to which you may face some error in live demo , its better to run it locally.
+**Note:** Project may be paused due to which you may face some error in live demo , its better to run it locally.
+
+
 ---
 
 ## Team: AppleMango
