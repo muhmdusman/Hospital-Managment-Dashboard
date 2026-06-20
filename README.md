@@ -1,4 +1,4 @@
-# AppleMango-P2-DevCon
+# Hospital Managment Dashboard
 
 ## Hospital Operating Room Scheduler with Intelligent Conflict Resolution
 
